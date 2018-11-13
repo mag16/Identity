@@ -1,0 +1,25 @@
+{
+  "homepage":"https://github.com/mag16/Identity",
+  "name": "identity",
+  "version": "1.0.0",
+  "description": "Identity by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "html.index",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "build":"html.index",
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mag16/Identity.git"
+  },
+  "author": "Marco A. Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mag16/Identity/issues"
+  }
+  
+}
