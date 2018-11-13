@@ -33,12 +33,25 @@
 		display: block;
 	}
 
+	h1 {
+		padding-top: 2em;
+	}
+
+	.icons {
+		padding-top: 2em;
+
+	}
 	body {
 		line-height: 1;
 	}
 
 	ol, ul {
 		list-style: none;
+	}
+
+	img {
+		display: inline-block;
+		margin: 20px 10px;
 	}
 
 	blockquote, q {
